@@ -1,0 +1,11 @@
+aicspylibczi==3.2.0
+customtkinter==5.2.2
+numpy==1.24.4
+opencv_python==4.10.0.84
+pandas==2.2.3
+Pillow==11.1.0
+pyperclip==1.9.0
+scipy==1.9.1
+seaborn==0.13.2
+xmltodict==0.13.0
+~atplotlib==3.8.0
